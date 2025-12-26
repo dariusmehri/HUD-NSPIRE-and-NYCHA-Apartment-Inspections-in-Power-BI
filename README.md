@@ -6,6 +6,6 @@ The most important challenge was to convert non-text readable independent inspec
 
 ### Results
 
-The below table shows the AMPs (Asset Management Project) and their scores:
+The below table shows a sample of the AMPs (Asset Management Projects) and their scores:
 
 <img width="850" height="450" alt="image" src="https://github.com/user-attachments/assets/13ec452a-a389-47a1-bf94-7a3af8944155" />
