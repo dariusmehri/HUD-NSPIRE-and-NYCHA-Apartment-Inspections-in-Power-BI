@@ -6,3 +6,4 @@ The most important challenge was to convert non-text readable independent inspec
 
 ### Results
 
+<img width="650" height="250" alt="image" src="https://github.com/user-attachments/assets/13ec452a-a389-47a1-bf94-7a3af8944155" />
