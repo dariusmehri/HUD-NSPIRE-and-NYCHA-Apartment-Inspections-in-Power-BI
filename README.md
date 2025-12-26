@@ -9,3 +9,8 @@ The most important challenge was to convert non-text readable independent inspec
 The below table shows a sample of the AMPs (Asset Management Projects) and their scores, and comparison to the previous inspection cycle:
 
 <img width="850" height="450" alt="image" src="https://github.com/user-attachments/assets/13ec452a-a389-47a1-bf94-7a3af8944155" />
+
+
+A random sample of thirty apartments are inspected, and the point deductions as a result of the deficiencies is summed to the AMP level:
+
+<img width="527" height="365" alt="image" src="https://github.com/user-attachments/assets/a9dba2d0-7878-43b5-ac18-ed1aeeb4a9cc" />
