@@ -17,3 +17,12 @@ A random sample of thirty apartments are inspected, and the point deductions as 
 
 
 <img width="627" height="565" alt="image" src="https://github.com/user-attachments/assets/a9dba2d0-7878-43b5-ac18-ed1aeeb4a9cc" />
+
+###
+
+The inspection notes were analyzed and catagories created using text mining.
+
+<img width="590" height="335" alt="image" src="https://github.com/user-attachments/assets/c170bd1c-708a-40e1-9373-2fc706f7511c" />
+
+
+
