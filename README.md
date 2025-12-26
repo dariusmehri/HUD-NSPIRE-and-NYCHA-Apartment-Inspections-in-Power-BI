@@ -26,7 +26,7 @@ The inspection notes were analyzed and catagories created using text mining. The
 
 ###
 
-A drill down was created showing the NSPIRE deficiencies compared to the annual NYCHA apartment inspections:
+A drill down was created to analyze the NSPIRE deficiencies compared to the annual NYCHA apartment inspections:
 
 <img width="916" height="457" alt="image" src="https://github.com/user-attachments/assets/f38a2db6-a999-48b3-9257-a7cd1847513d" />
 
