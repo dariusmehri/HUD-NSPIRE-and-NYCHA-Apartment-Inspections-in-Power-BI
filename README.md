@@ -24,5 +24,10 @@ The inspection notes were analyzed and catagories created using text mining. The
 
 <img width="790" height="535" alt="image" src="https://github.com/user-attachments/assets/c170bd1c-708a-40e1-9373-2fc706f7511c" />
 
+###
+
+A drill down was created showing the NSPIRE deficiencies compared to the annual NYCHA apartment inspections:
+
+<img width="916" height="457" alt="image" src="https://github.com/user-attachments/assets/f38a2db6-a999-48b3-9257-a7cd1847513d" />
 
 
