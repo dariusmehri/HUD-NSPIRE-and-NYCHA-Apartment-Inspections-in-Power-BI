@@ -20,9 +20,9 @@ A random sample of thirty apartments are inspected, and the point deductions as 
 
 ###
 
-The inspection notes were analyzed and catagories created using text mining.
+The inspection notes were analyzed and catagories created using text mining. The top catagories were electrical and egress, followed by lead and mold.
 
-<img width="590" height="335" alt="image" src="https://github.com/user-attachments/assets/c170bd1c-708a-40e1-9373-2fc706f7511c" />
+<img width="790" height="535" alt="image" src="https://github.com/user-attachments/assets/c170bd1c-708a-40e1-9373-2fc706f7511c" />
 
 
 
