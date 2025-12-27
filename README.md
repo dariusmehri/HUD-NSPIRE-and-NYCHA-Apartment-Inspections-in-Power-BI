@@ -1,8 +1,8 @@
 ### HUD NSPIRE and NYCHA Apartment Inspections in Power BI
 
-This project implemented the use of Python to develop data-engineering algorithms that converted several incoherent HUD inspection reports into a unified, analysis-ready dataset for visualization in Power BI. This gave commissioner-level managers easy access for performance tracking, compare NYCHA inspection outcomes, and accelerate progress toward compliance and improved building safety.
+This project leveraged Python-based data engineering to transform multiple inconsistent HUD inspection reports into a unified, analysis-ready dataset for visualization in Power BI. The resulting dashboards provided commissioner-level leadership with clear visibility into inspection performance, enabled cross-cycle comparisons of NYCHA outcomes, and supported faster progress toward regulatory compliance and improved building safety.
 
-The most important challenge was to convert non-text readable independent inspection reports into text readable data that could be input into Power BI for visualization. Once the data was converted into text,  the next step was to develop algorithms to transform the unstructured data into a structured csv files for visualization. Both of these steps were accomplished by developing data engineering algorithms in Python.
+The primary technical challenge was converting non-text-readable inspection reports into structured, text-based data suitable for analysis. Custom Python algorithms were developed to extract, normalize, and transform unstructured inspection content into standardized CSV files, making the data fully usable for reporting and visualization in Power BI.
 
 ### Results
 
