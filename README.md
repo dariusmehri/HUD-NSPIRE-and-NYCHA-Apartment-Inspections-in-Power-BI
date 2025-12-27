@@ -13,7 +13,7 @@ The below table shows a sample of the AMPs (Asset Management Projects) and their
 
 ###
 
-A random sample of thirty apartments are inspected, and the point deductions as a result of the deficiencies is summed to the AMP level.
+A random sample of 30 apartments is inspected, with identified deficiencies generating deduction points that are aggregated at the AMP level.
 
 
 <img width="627" height="565" alt="image" src="https://github.com/user-attachments/assets/a9dba2d0-7878-43b5-ac18-ed1aeeb4a9cc" />
