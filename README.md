@@ -6,7 +6,7 @@ The most important challenge was to convert non-text readable independent inspec
 
 ### Results
 
-The below table shows a sample of the AMPs (Asset Management Projects) and their scores, and comparison to the previous inspection cycle.
+The table below presents a sample of Asset Management Projects (AMPs), their inspection scores, and a comparison with the previous inspection cycle.
 
 <img width="850" height="450" alt="image" src="https://github.com/user-attachments/assets/13ec452a-a389-47a1-bf94-7a3af8944155" />
 
@@ -20,13 +20,13 @@ A random sample of 30 apartments is inspected, with identified deficiencies gene
 
 ###
 
-The inspection notes were analyzed and categories created using text mining. The top deficiency categories are electrical and egress, followed by lead and mold.
+Inspection notes were analyzed using text-mining techniques to create standardized deficiency categories. The most common categories were electrical and egress issues, followed by lead and mold.
 
 <img width="790" height="535" alt="image" src="https://github.com/user-attachments/assets/c170bd1c-708a-40e1-9373-2fc706f7511c" />
 
 ###
 
-A drill down was created to analyze the NSPIRE deficiencies compared to the annual NYCHA apartment inspections.
+A drill-down analysis was developed to compare NSPIRE deficiencies with findings from annual NYCHA apartment inspections.
 
 <img width="916" height="457" alt="image" src="https://github.com/user-attachments/assets/f38a2db6-a999-48b3-9257-a7cd1847513d" />
 
